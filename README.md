@@ -1,6 +1,9 @@
 # ui_sederhana
 
 A new Flutter project.
+Nama : Gustania Nirmala Meisi
+NIM : 2041720107
+Kelas : TI3H
 
 ## Getting Started
 
